@@ -19,3 +19,6 @@ Appetizer: Gran Misto di Fonghi Alla Griglia   $12.95
 Entree: Spaghetti Al Filleto di Pomodoro       $19.95
 Dessert: Tartufo Gelato al Ciocollate          $7.50
 Total Price:                                   $40.40
+
+
+Python Script By Nicholas Tang
