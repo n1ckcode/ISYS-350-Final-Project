@@ -1,4 +1,4 @@
-# ISYS-350-Final-Project
+# ISYS-350-MENU-Project
 The program must take input from the table, items from database, menu.db. The database records will be in the format:
 
 Item Name, Item Price, Item Category
